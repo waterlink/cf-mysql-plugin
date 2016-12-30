@@ -33,3 +33,8 @@ cf-mysql-plugin
 *.coverprofile
 
 output
+
+# interactivity integration tests
+/cfmysql/interactivity/integration/integration
+/cfmysql/interactivity/integration/*.txt
+
